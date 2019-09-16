@@ -1,0 +1,58 @@
+.navcolor{
+    background-color: #721c24;
+    
+}
+.acolor{
+    color:#fff;
+}
+.acolor:hover {
+    color:#fff;
+}
+.acolor-back{
+    color:#000;
+}
+.dstext-left{
+    text-align:right!important
+            
+}
+.dstext-center{
+    text-align:center!important
+}
+.mian-center{
+    text-align:center!important;
+    color: #ffffff;
+}
+.footers{
+    margin-block-end:20px;
+}
+.colorfooter{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: calc(100% - 90px);
+    height: 80px;
+    background-color: #721c24;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.block{
+    background-color: #1a61ad;
+    padding: 7px;
+    color: #fff;
+    border-radius: 5px;
+}
+.tablelayout{
+    width: 800px;
+    margin: 1.75rem auto;
+    margin-left: -15%;
+}
+.riskimage{
+    width: 230px;
+}
+.riskimages{
+    width: 330px;
+}
